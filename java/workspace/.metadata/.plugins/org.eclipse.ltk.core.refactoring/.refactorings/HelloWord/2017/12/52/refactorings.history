@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Inline local variable &apos;com.test.Hello.Hello.main().myhehe&apos; in &apos;com.test.Hello.Hello.main()&apos;&#x0A;- Original project: &apos;HelloWord&apos;&#x0A;- Original element: &apos;com.test.Hello.Hello.main().myhehe&apos;" description="Inline local variable &apos;myhehe&apos;" id="org.eclipse.jdt.ui.inline.temp" input="/src&lt;com.test.Hello{Hello.java" selection="196 20" stamp="1514205472092" version="1.0"/>
+</session>
